@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WcbgdGTOebc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\פרקיקוד\\Cli\\fb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\3.0.0-rc.1.26425.128\\system.commandline.3.0.0-rc.1.26425.128.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\user1\Desktop\פרקיקוד\Cli\bin\Release\net8.0\Cli.exe
+C:\Users\user1\Desktop\פרקיקוד\Cli\bin\Release\net8.0\Cli.deps.json
+C:\Users\user1\Desktop\פרקיקוד\Cli\bin\Release\net8.0\Cli.runtimeconfig.json
+C:\Users\user1\Desktop\פרקיקוד\Cli\bin\Release\net8.0\Cli.dll
+C:\Users\user1\Desktop\פרקיקוד\Cli\bin\Release\net8.0\Cli.pdb
+C:\Users\user1\Desktop\פרקיקוד\Cli\obj\Release\net8.0\Cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרקיקוד\Cli\obj\Release\net8.0\Cli.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרקיקוד\Cli\obj\Release\net8.0\Cli.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרקיקוד\Cli\obj\Release\net8.0\Cli.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרקיקוד\Cli\obj\Release\net8.0\Cli.dll
+C:\Users\user1\Desktop\פרקיקוד\Cli\obj\Release\net8.0\refint\Cli.dll
+C:\Users\user1\Desktop\פרקיקוד\Cli\obj\Release\net8.0\Cli.pdb
+C:\Users\user1\Desktop\פרקיקוד\Cli\obj\Release\net8.0\Cli.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרקיקוד\Cli\obj\Release\net8.0\ref\Cli.dll
